@@ -80,7 +80,7 @@ run "numlockx"
 #run volumeicon
 run fcitx5
 run slstatus &
-#sxhkd -c ~/.dwm/sxhkdrc &
+#sxhkd -c ~/.dwm/sxhkdrc & # Change to use ~/.config/autostart/ folder and .xprofile to start some apps
 #run "nitrogen --restore"
 #run "conky -c $HOME/.config/arco-dwm/system-overview"
 #you can set wallpapers in themes as well
