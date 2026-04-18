@@ -84,7 +84,7 @@ run slstatus &
 #run "nitrogen --restore"
 #run "conky -c $HOME/.config/arco-dwm/system-overview"
 #you can set wallpapers in themes as well
-feh --bg-fill ~/pictures/wall/Electric-Skyline.png &
+feh --bg-fill /home/userName/Pictures/xxx.jpg &
 #wallpaper for other Arch based systems
 #feh --bg-fill /usr/share/archlinux-tweak-tool/data/wallpaper/wallpaper.png &
 #run applications from startup
